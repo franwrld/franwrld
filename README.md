@@ -1,4 +1,5 @@
 ## CARLOS FRANCISCO RUIZ CORTEZ 👋
+LICENCIADO EN SISTEMAS INFORMÁTICOS ADMINISTRATIVOS
 
 LENGUAJES:
 
@@ -43,6 +44,8 @@ SISTEMA OPERATIVOS:
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25">
 </p>
+
+##DESARROLLADOR FULL-STACK
 <!--
 **franwrld/franwrld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
